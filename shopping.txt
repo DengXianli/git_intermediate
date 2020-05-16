@@ -3,6 +3,8 @@ Shopping List
 apples
 bananas
 yogurt
+milk
+bread
 cereal
 eggs
 bacon
@@ -15,5 +17,6 @@ soup
 ice cream
 sugar
 flour
+bikecycle
+chopsticks
 motorcycle
-
