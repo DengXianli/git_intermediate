@@ -3,7 +3,7 @@ Shopping List
 apples
 bananas
 yogurt
-milk
+a box of milk
 bread
 cereal
 eggs
@@ -22,3 +22,5 @@ chopsticks
 motorcycle
 computer mouse
 chicken wings
+cola
+
