@@ -21,3 +21,4 @@ bikecycle
 chopsticks
 motorcycle
 computer mouse
+chicken wings
